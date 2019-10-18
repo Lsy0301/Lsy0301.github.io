@@ -9,6 +9,6 @@ editor_options:
   chunk_output_type: console
 ---
 
-# My name is Siying and i make websites!!
+# My name is Siying and I make websites!!
 
 
