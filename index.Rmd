@@ -9,7 +9,9 @@ editor_options:
   chunk_output_type: console
 ---
 
-# This is Jeff's awesome website
+# This is Siying's awesome website
+
+You can learn about me [here](about.html)
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
