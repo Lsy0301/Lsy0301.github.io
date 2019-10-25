@@ -7,8 +7,6 @@ navbar:
       href: about.html
     - text: Examples
       menu: 
-      - text: "Ploty"
-        href: ploty.html
       - text: "Dashboard"
         href: dashboard.html
     - icon: fa-envelope fa-lg
