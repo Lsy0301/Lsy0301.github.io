@@ -1,11 +1,25 @@
 ---
-title: "About Me"
+title: "Resume"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# My name is Siying and I make websites!!
+EDUCATION
 
+* Columbia University, New York, NY 
+   
+   Master of Science in Biostatistics
 
+* University of California, Davis, CA
+
+   Bachelor of Science in Biochemistry 
+
+* Keith Country Day Senior High School, Rockford, IL 
+
+<br/>
+
+EXPERIENCES
+
+I have accumulated a lot of knowledge and hands on experiences about genomics and proteomics with guidance from some leading life science professors. I also gained knowledge about high resolution mass spectrometry including hands on operation and data processing using various software at Thermo Fisher.
