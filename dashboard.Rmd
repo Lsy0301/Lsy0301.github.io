@@ -26,10 +26,11 @@ instacart =
 ```
 
 
+
 Column {data-width=600}
 -----------------------------------------------------------------------
 
-### Chart A
+### Figure 1. refrigerated pudding desserts aisle: Days since prior order vs Order number
 
 ```{r}
 instacart %>%
@@ -43,7 +44,7 @@ instacart %>%
 Column {data-width=400}
 -----------------------------------------------------------------------
 
-### Chart B
+### Figure 2. aisle order numbers (when days since prior order is zero)
 
 ```{r}
 instacart %>% 
@@ -53,10 +54,10 @@ instacart %>%
           colors = "Set2")
 ```
 
-### Chart C
+### Figure 3. aisle numbers
 
 ```{r}
-  instacart %>% 
+instacart %>% 
   count(aisle) %>% 
   mutate(aisle = fct_reorder(aisle, n)) %>% 
   plot_ly(x = ~aisle, y = ~n, color = ~aisle, type = "bar")

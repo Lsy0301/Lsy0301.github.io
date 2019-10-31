@@ -8,17 +8,24 @@ output:
 
 # This is Siying's  website
 
-You can learn about me [here](about.html)
+You can learn about me [here](about.html), which includes my resume [here](https://docs.google.com/viewerng/viewer?url=https://github.com/Lsy0301/Lsy0301.github.io/raw/master/SiyingLi_Resume.pdf)
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+## I did some simple instacart (department dairy eggs) data analysis
 
-# Let's add some links
+You can view my [dashboard here](https://lsy0301.github.io/dashboard.html)
 
-I often use [google](https://www.google.com) to do **data science**. 
+* I looked only at data from department dairy eggs
 
+* In Fig.1, I used data from refrigerated pudding desserts and had to choose only users with user ID less than 4000 to decrease sample size. I looked at order number in relationship to days since prior order. 
 
-# Let's add an image 
+* In Fig.2, I only used data from when days since prior order is zero. I looked at order number and aisle.
 
-here's my dog: 
+* In Fig.3, I counted aisles ordered numbers and ranked them into a bar graph. 
+
+## My dog
+By the way, I love dogs. 
 ![](images/IMG_3372.JPG) 
+
+
+
 
